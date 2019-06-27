@@ -50,10 +50,10 @@ def main():
     new_record = next(new)
     old_features, new_features = [], []
     for f in old_record.features:
-        if f.type == 'CDS':
+        if f.type != 'source': #'Source'?
             old_features.append(f)
     for f in new_record.features:
-        if f.type == 'CDS':
+        if f.type == 'source':
             new_features.append(f)
 
     print('Features in old assembly:', len(old_features))
