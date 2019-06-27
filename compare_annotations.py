@@ -15,13 +15,14 @@ You should have received a copy of the GNU General Public License along with thi
 see <https://www.gnu.org/licenses/>.
 """
 
+###test git push
+
 import argparse
 from Bio import SeqIO
 from Bio import pairwise2
 from Bio.pairwise2 import format_alignment
 import itertools
 import sys
-
 
 def get_arguments():
     parser = argparse.ArgumentParser(description='Compare GenBank annotations',
