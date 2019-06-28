@@ -1,0 +1,44 @@
+......................Features in old assembly: 22
+Features in new assembly: 18
+
+Inexact match (99.75% ID, new seq longer)
+  old:  (1581-2768 +, 1187 bp)
+  new:  (1581-2771 +, 1190 bp)
+
+Inexact match (98.92% ID, new seq longer)
+  old:  (3275-3367 +, 92 bp)
+  new:  (3275-3368 +, 93 bp)
+
+In old but not in new:
+   (3275-3367 +, 92 bp)
+
+In new but not in old:
+   (3365-3422 -, 57 bp)
+
+In new but not in old:
+   (848-1393 -, 545 bp)
+
+Inexact match (99.09% ID, new seq longer)
+  old:  (3808-4245 -, 437 bp)
+  new:  (3804-4245 -, 441 bp)
+
+In new but not in old:
+   (1-318 -, 317 bp)
+
+Inexact match (99.32% ID, new seq longer)
+  old:  (3808-4245 -, 437 bp)
+  new:  (3805-4245 -, 440 bp)
+
+In new but not in old:
+   (1-219 -, 218 bp)
+
+Inexact match (99.32% ID, new seq longer)
+  old:  (3808-4245 -, 437 bp)
+  new:  (3805-4245 -, 440 bp)
+
+In new but not in old:
+   (1-219 -, 218 bp)
+
+Inexact match (99.09% ID, new seq longer)
+  old:  (3808-4245 -, 437 bp)
+  new:  (3804-4245 -, 441 bp)

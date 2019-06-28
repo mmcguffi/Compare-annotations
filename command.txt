@@ -1,0 +1,2 @@
+#!/bin/bash
+python3 compare_annotations.py /Users/mattmcguffie/database/plasmids/pACYC184_diamond_annotated.gbk /Users/mattmcguffie/database/plasmids/pACYC184_snapgene_annotated.gbk > results.txt
